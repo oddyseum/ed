@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DD9167B2-638B-4098-AD71-E01F6FE4EF26}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CBingo/MainWindow.cs">
+    <Files>
+      <File FileName="CBingo/MainWindow.cs" Line="19" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CBingo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
