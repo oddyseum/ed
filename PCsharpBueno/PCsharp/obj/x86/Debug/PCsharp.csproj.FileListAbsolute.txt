@@ -1,0 +1,6 @@
+/home/sermar/ED/PCsharp/PCsharp/bin/Debug/PCsharp.exe
+/home/sermar/ED/PCsharp/PCsharp/bin/Debug/PCsharp.pdb
+/home/sermar/ED/PCsharp/PCsharp/obj/x86/Debug/PCsharp.csprojAssemblyReference.cache
+/home/sermar/ED/PCsharp/PCsharp/obj/x86/Debug/PCsharp.csproj.CoreCompileInputs.cache
+/home/sermar/ED/PCsharp/PCsharp/obj/x86/Debug/PCsharp.exe
+/home/sermar/ED/PCsharp/PCsharp/obj/x86/Debug/PCsharp.pdb
